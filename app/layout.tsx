@@ -6,8 +6,8 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "BUZZChat",
-  description: "BUZZ CHATGPT",
+  title: "BUZZChat(联网版)",
+  description: "BUZZ CHAT",
   viewport: {
     width: "device-width",
     initialScale: 1,
